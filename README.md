@@ -1,2 +1,2 @@
 # doct
-this is mu first commit to my repositor
+this is my first commit on my branch
